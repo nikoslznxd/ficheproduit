@@ -1,3 +1,14 @@
+.page{
+  width: 1170;
+  height: 1920;
+  margin: auto;
+
+}
+
+.page{
+  background: #cae5ee;
+}
+
 .bannière{
   width: 100%;
   height: 124px;
@@ -9,30 +20,59 @@
   width: 109px;
   height: 92px;
   float: left;
-}
-
-.logo img{
-  width: 100%;
-  height: 100%;
   margin-top: 15px;
   margin-left: 40px;
 }
 
+.logo img{
+  width: 100%;
+}
+
 .slogan{
   float: left;
-  margin-top: 53px;
-  margin-left: 61px;
+  height: 124px;
+  margin-left: 13px;
+}
+
+.slogan h1{
+  line-height: 124px;
   font-family: Raleway;
+  color: #00858a;
+  font-size: 21px;
+  margin-top: 0;
+  margin-bottom: 0;
+
 }
 
 .menu{
   float: left;
-  margin-top: 38px;
-  margin-left: 565px;
+  margin-left: 147px;
+  height: 124px;
+}
+
+.menu ul{
+  margin-bottom: 0;
+  margin-top: 0;
 }
 
 .menu ul li{
 display: inline-block;
-margin-left: 16px;
+line-height: 124px;
+}
+
+.menu ul li a{
+text-decoration: none;
 font-family: Raleway;
+color: #00858a;
+font-size: 25px;
+margin-right: 15px;
+margin-left: 17px;
+}
+
+.background{
+  width: 1170px;
+}
+
+.background img{
+  width: 100%;
 }
