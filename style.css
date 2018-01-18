@@ -83,6 +83,33 @@ font-family: Raleway;
   color: #fff;
   text-decoration: none;
 }
+
+.one-time{
+  width: 514px;
+  height: 560px;
+  margin-top: 73px;
+  margin-left: 115px;
+  float: left;
+}
+
+.one-time img{
+width: 100%;
+bo
+}
+
+.description{
+  float: left;
+  margin-left: 101px;
+  margin-top: 50px;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.danslamemegamme{
+width: 1076px;
+height: 69px;
+background-color:#009cabs;
+}
 .footer{
   margin-top: 300px;
 }
