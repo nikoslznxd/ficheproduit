@@ -2,19 +2,15 @@
   width: 1170;
   height: 1920;
   margin: auto;
-
 }
-
 .page{
   background: #cae5ee;
 }
-
 .bannière{
   width: 100%;
   height: 124px;
   background: #7abdd4;
 }
-
 .logo{
   width: 109px;
   height: 92px;
@@ -22,17 +18,14 @@
   margin-top: 15px;
   margin-left: 40px;
 }
-
 .logo img{
   width: 100%;
 }
-
 .slogan{
   float: left;
   height: 124px;
   margin-left: 13px;
 }
-
 .slogan h1{
   line-height: 124px;
   font-family: Raleway;
@@ -40,28 +33,20 @@
   font-size: 21px;
   margin-top: 0;
   margin-bottom: 0;
-
 }
-
 .menu{
   float: left;
   margin-left: 147px;
   height: 124px;
 }
-
 .menu ul{
   margin-bottom: 0;
   margin-top: 0;
 }
-
 .menu ul li{
 display: inline-block;
 line-height: 124px;
 }
-
-
-
-
 .menu ul li a{
 text-decoration: none;
 font-family: Raleway;
@@ -70,7 +55,6 @@ font-size: 25px;
 margin-right: 15px;
 margin-left: 17px;
 }
-
 .sousmenu{
 width: 1072px;
 height: 69px;
@@ -83,7 +67,6 @@ border-top: 0px;
 border-style:solid;
 border-color: #7abdd4;
 }
-
 .menu2{
   float: left;
   margin-left: 100px;
@@ -94,54 +77,13 @@ display: inline-block;
 margin-left: 93px;
 font-family: Raleway;
 }
-
 .menu2 ul li a{
   color: #fff;
   text-decoration: none;
 }
-
-.slider{
-  margin: 20px auto;
-  width: 1000px;
-  text-align: center;
-}
-
 .footer{
   margin-top: 300px;
 }
-
-.rslides {
-  position: relative;
-  list-style: none;
-  overflow: hidden;
-  width: 100%;
-  padding: 0;
-  margin: 0;
-  }
-
-.rslides li {
-  -webkit-backface-visibility: hidden;
-  position: absolute;
-  display: none;
-  width: 100%;
-  left: 0;
-  top: 0;
-  }
-
-.rslides li:first-child {
-  position: relative;
-  display: block;
-  float: left;
-  }
-
-.rslides img {
-  display: block;
-  height: auto;
-  float: left;
-  width: 100%;
-  border: 0;
-  }
-
 .bannière2{
   width: 100%;
   height: 267px;
