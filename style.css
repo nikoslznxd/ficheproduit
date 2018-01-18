@@ -59,6 +59,9 @@ display: inline-block;
 line-height: 124px;
 }
 
+
+
+
 .menu ul li a{
 text-decoration: none;
 font-family: Raleway;
@@ -83,13 +86,18 @@ border-color: #7abdd4;
 
 .menu2{
   float: left;
-  margin-left: 208px;
+  margin-left: 100px;
+  margin-top: 15px;
 }
 .menu2 ul li{
 display: inline-block;
 margin-left: 93px;
 font-family: Raleway;
-color: #000000;
+}
+
+.menu2 ul li a{
+  color: #fff;
+  text-decoration: none;
 }
 
 .background{
