@@ -2,7 +2,7 @@
 
 .page{
   width: 1170;
-  height: 1920;
+  height: 2500;
   margin: auto;
 }
 .page{
@@ -100,9 +100,7 @@ bo
 .description{
   float: left;
   margin-left: 101px;
-  margin-top: 50px;
-  text-decoration: none;
-  list-style-type: none;
+  margin-top: 70px;
 }
 
 .danslamemegamme{
@@ -128,7 +126,7 @@ border-color: #7abdd4
   margin-left: 416px;
 }
 .footer{
-  margin-top: 300px;
+  margin-top: 500px;
 }
 .bannière2{
   width: 100%;
@@ -159,4 +157,39 @@ p2{
 font-size: 21px;
 color: #00858a;
 line-height:35px;
+}
+
+.gamme{
+width: 325px;
+height: 350px;
+float: left;
+margin-top: 45px;
+}
+
+.gamme img{
+  width: 100%;
+}
+
+.gamme2{
+  width: 325px;
+  height: 350px;
+  float: left;
+  margin-left: 50px;
+  margin-top: 45px;
+}
+
+.gamme2 img{
+  width: 100%;
+}
+
+.gamme3{
+  width: 325px;
+  height: 350px;
+  float: left;
+  margin-left: 50px;
+  margin-top: 45px;
+}
+
+.gamme3 img{
+  width: 100%;
 }
