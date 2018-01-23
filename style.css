@@ -221,7 +221,7 @@ margin-top: 45px;
   width: 100%;
   height: 100%;
   background-color: rgba(0, 156,171, 0.5);
-
+position: relative;
 }
 
 .photo:hover .overlay{
@@ -229,6 +229,33 @@ margin-top: 45px;
 }
 
 p5{
-  margin-top: 150px;
   width: 100%;
+}
+
+.CTA{
+width: 100px;
+height: 40px;
+background-color: #cae5ee;
+text-align: center;
+position: absolute;
+left: 50%;
+margin-left: -50px;
+top: 50%;
+margin-top:-20px;
+border-radius: 3px;
+box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.75);
+}
+
+.CTA a{
+  line-height: 40px;
+  margin: 0;
+  color: #009cab;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+/* différence avec background et color ? */
+.CTA:hover{
+background: #7abdd4;
+color: #000000;
 }
